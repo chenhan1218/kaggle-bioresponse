@@ -2,6 +2,6 @@
 
 ** Steps
 ``` bash
-python present/makeSubmission.py data/training.csv data/testing.csv >result/my_first_submission.csv
+python present/blending.py
 ```
 
